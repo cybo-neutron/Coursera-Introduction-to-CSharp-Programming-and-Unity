@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Cybo-Neutron\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Cybo-Neutron\\.nuget\\packages"
+    ]
+  }
+}
